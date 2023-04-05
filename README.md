@@ -1,6 +1,7 @@
 # SIMPLE-IP-SCANNER
 ##  ```This is a simple script to scan ip addresses automatically```
-![image](https://user-images.githubusercontent.com/90658763/230062907-e929ca84-a851-4cf5-a46e-69a25924835e.png)
+![image](https://user-images.githubusercontent.com/90658763/230069503-236129b3-eac8-43f2-9b06-9c76891ddc6a.png)
+
 
  ```console
 $ python
