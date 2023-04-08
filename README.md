@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/90658763/230069503-236129b3-eac8-43f2-9b06-9c76891ddc6a.png)
 
 
- ```console
+ ```Python
 $ python
 >>> You just have to insert the number of the ip analysis page and the script will do the job
 ```
