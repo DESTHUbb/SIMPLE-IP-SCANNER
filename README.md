@@ -4,7 +4,6 @@
 
 
  ```Python
-$ python
 >>> You just have to insert the number of the ip analysis page and the script will do the job
 ```
  ```Python
