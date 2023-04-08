@@ -16,14 +16,3 @@
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/230066754-a0efa148-80ad-4125-adf7-8b20ba5d8f5a.png)](https://pypi.org/project/PyAutoGUI/)
 ## Time:
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/230068207-427739fa-c224-4d12-a74b-3ea9d7816b7c.png)](https://docs.python.org/3/library/time.html)
-
-# Ingrese el número de página de análisis de IP
-page_num = input("Ingrese el número de la página de análisis de IP: ")
-
-# Ejecute el análisis de IP en la página especificada
-analyze_ip(page_num)
-
-# Definir la función analyze_ip
-def analyze_ip(page_num):
-    # Realice el análisis de IP aquí
-    # ...
