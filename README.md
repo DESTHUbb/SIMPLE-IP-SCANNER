@@ -7,7 +7,7 @@
 $ python
 >>> You just have to insert the number of the ip analysis page and the script will do the job
 ```
- ```console
+ ```Python
 $ python
 >>> If you did not select the number range provided or I press ctrl+c the following message will appear
 ```
